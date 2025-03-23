@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+im working on getting this site online,
+somewhat formatted and configured,
+and making some posts and pages so
+i can share work, start generating
+SEO, and get clicks to mean something!
+
+thanks for visiting, and thank you for
+your interest in the process that goes
+into this stuff!
+
 <!--
 **absm-art/absm-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
